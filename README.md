@@ -2,7 +2,7 @@
 
 - Course Certificate
 
-https://coursera.org/share/e2d2807dce4ced5db5eb382251dfe7bf
+[Coursera.YKFVQKD3UMDL.pdf](https://github.com/DS-Heejae/tensorflow/files/4479887/Coursera.YKFVQKD3UMDL.pdf)
 
 
 - week 1: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
